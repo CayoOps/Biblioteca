@@ -1,0 +1,18 @@
+EXAME TAGS
+- CLOUD COMPUTING DEPLOYMENT MODELS
+- TYPICAL CATEGORIZATION OF CLOUD COMPUTING (BASED ON THE SERVICE LAYER)
+---
+- Security service - WAF (web application firewall)
+- DevCloud (cai pouco mas se cair pede pra correlacionar os nomes)
+- Types of Login (#2)
+---
+- Lifecycle of ECS
+---
+- Cloud Alarm (alarm, ok, insuficient data)
+---
+- Capacity expansion
+---
+- OBS (logging) - log delivery user (ACL read, save and write) 
+
+SENHA ACESSO:
+huawei135@matza!

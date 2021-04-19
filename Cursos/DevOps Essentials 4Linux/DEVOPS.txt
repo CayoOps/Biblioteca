@@ -1,0 +1,34 @@
+Oque é DevOps?
+
+
+
+
+Onde surgiu?
+2001 - Manifesto Ágil ("Dev")
+2003 -> 2016 na prática - Google SRE ("Ops")
+2005 - git / puppet labs
+2009 - palestra Flicky Velocity, Patrick Dbua (devopsdays)
+2012 - Ansebal, IBM, HP, CA aderindo ao movimento
+2013 - livro projeto fênix, docker...
+
+4 pilares DevOps
+
+1 - Cultura
+Colaboração
+Desenvolvimento e Operação trabalhando juntos
+
+2 - Automação
+Ferramentas de automação
+Pipelines automáticas
+
+3 mediação (measurement)
+métricas de todo ciclo
+monitoração
+
+4 - compartilhamento
+feedback
+compartilhar responsabilidades
+
+
+
+
